@@ -131,4 +131,10 @@ Profiling tools like column quality, column distribution, and column profile all
 
 ![image](https://github.com/user-attachments/assets/ef6fe7cc-9027-4705-82ce-e1bca98f066b)
 
+Kry Objective:
 
+1. What is our average product cost? 714.437
+2. How many colors do we sell our products in? 9
+3. How many distinct customers do we have? 18148
+4. What is the maximum annual customer income? 170000
+5. Return the tables to their original state
