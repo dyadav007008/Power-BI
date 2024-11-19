@@ -115,7 +115,20 @@ Power BI Desktop supports several types of storage and connection modes:
 • Composite Model (Dual): Tables come from a mix of Import and DirectQuery modes, or integrate multiple DirectQuery tables
 • Live Connection: Connect to pre-published Power BI datasets in Power BI Service or Azure Analysis Services
 
+## DATA PROFILING: COLUMN QUALITY
+Profiling tools like column quality, column distribution, and column profile allow you to explore the quality, composition, and distribution of your data before loading it into the Power BI front-end
+![image](https://github.com/user-attachments/assets/09f51a3b-86b7-4b49-ab63-e598ea572f2e)
 
+![image](https://github.com/user-attachments/assets/058a9ee1-576c-4043-9f73-d08d32d5ea82)
 
+![image](https://github.com/user-attachments/assets/9b29a9c0-b65b-4cd0-b433-47588a38df71)
+
+## Text Column
+
+![image](https://github.com/user-attachments/assets/07141fa8-59c5-4675-814c-d5e1f788a6b1)
+
+## Numerical Tools
+
+![image](https://github.com/user-attachments/assets/ef6fe7cc-9027-4705-82ce-e1bca98f066b)
 
 
